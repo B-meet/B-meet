@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey fellow <Developer's/> 👋
+
+I am Meet a frontend developer from India. Currently working with [reactjs](https://reactjs.org/). I love styling web and learning new things excites me alot.
 
 <!--
 **b-meet/b-meet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
