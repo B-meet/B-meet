@@ -1,18 +1,12 @@
-### Hey fellow <Developer's/> 👋
+## Hey fellow <Developer's/> 👋
 
-I am Meet a frontend developer from India. Currently working with [reactjs](https://reactjs.org/). I love styling web and learning new things excites me alot.
+### About Me:
 
-<!--
-**b-meet/b-meet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Meet a frontend developer from India. Currently working with [reactjs](https://reactjs.org/). I love styling web and learning new things excites me a lot.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ A coffee lover surrounded by Teaophiles.
+- 🌱 I’m currently learning Typescript.
+- 🤔 I’m looking for help in Learning Data Structures.
+- 💬 Ask me about My Past Experiences.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Strawberry is not a berry, Watermelon is a berry.
