@@ -13,19 +13,6 @@ I am Meet a frontend developer from India. Currently working with [reactjs](http
 
 I write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
 
-## Languages & Tools I Use:
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="40px" src="https://user-images.githubusercontent.com/82386196/182672977-31a2eb3e-6a41-4abc-97f7-b9a9b9b6012b.svg" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescript" height='40px' src="https://user-images.githubusercontent.com/82386196/190183530-47f75701-5df3-4f04-9e6a-8ee58f974f19.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img align="left" alt="HTML" height ="35px" src="https://user-images.githubusercontent.com/82386196/182662461-f70aa8d5-9c74-4ed7-ae5d-5b60bf08c076.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="35px" src="https://user-images.githubusercontent.com/82386196/182673305-b358a57a-c76d-4323-a148-7a68e09f4ab4.png" /></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="40px" src="https://user-images.githubusercontent.com/82386196/182673553-fdc9a035-43b0-4dc8-bfe9-4452b1583e7d.svg" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" height='40px' src="https://user-images.githubusercontent.com/82386196/182673620-a4b6216e-ecc9-47fe-892b-c0d1883f69cd.svg" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="tailwind" height='40px' src="https://user-images.githubusercontent.com/82386196/190179133-34d325a9-92a4-437a-89f3-25eb01039865.png" /></a>
-<a href="https://mui.com/" target="_blank"><img align="left" alt="" height='30px' src="https://user-images.githubusercontent.com/82386196/190182938-3680085a-8888-46a0-9296-115bc5fb22e9.png" /></a>
-
-<!-- <a href="https://mui.com/" target="_blank"><img align="left" alt="Material-ui" height='40px' src="https://user-images.githubusercontent.com/82386196/182674563-54449596-187a-4834-b690-ac74f3a293a6.png" /></a> -->
-.
 ## Some of My Recent Posts on DEV community:
 
 - [How is it to become a self taught developer](https://dev.to/meetbhalodiya/how-is-it-to-become-a-self-taught-developer-of6).
@@ -33,4 +20,80 @@ I write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
 - [Resources for learning to code](https://dev.to/meetbhalodiya/resources-for-learning-to-code-5257)
 - [Intro To LinkedIn](https://dev.to/meetbhalodiya/tell-who-you-are-what-you-do-2e7b)
 
+## Languages & Tools I Use:
+
+<a
+				href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'
+				target='_blank'
+			>
+				<img
+					align='left'
+					alt='JavaScript'
+					height='40px'
+					src='https://user-images.githubusercontent.com/82386196/182672977-31a2eb3e-6a41-4abc-97f7-b9a9b9b6012b.svg'
+				/>
+			</a>
+			<a href='https://www.typescriptlang.org/' target='_blank'>
+				<img
+					align='left'
+					alt='typescript'
+					height='40px'
+					src='https://user-images.githubusercontent.com/82386196/190183530-47f75701-5df3-4f04-9e6a-8ee58f974f19.png'
+				/>
+			</a>
+			<a
+				href='https://developer.mozilla.org/en-US/docs/Glossary/HTML5'
+				target='_blank'
+			>
+				<img
+					align='left'
+					alt='HTML'
+					height='35px'
+					src='https://user-images.githubusercontent.com/82386196/182662461-f70aa8d5-9c74-4ed7-ae5d-5b60bf08c076.png'
+				/>
+			</a>
+			<a
+				href='https://developer.mozilla.org/en-US/docs/Web/CSS'
+				target='_blank'
+			>
+				<img
+					align='left'
+					alt='CSS'
+					height='35px'
+					src='https://user-images.githubusercontent.com/82386196/182673305-b358a57a-c76d-4323-a148-7a68e09f4ab4.png'
+				/>
+			</a>
+			<a href='https://reactjs.org/' target='_blank'>
+				<img
+					align='left'
+					alt='React'
+					height='40px'
+					src='https://user-images.githubusercontent.com/82386196/182673553-fdc9a035-43b0-4dc8-bfe9-4452b1583e7d.svg'
+				/>
+			</a>
+			<a href='https://git-scm.com/' target='_blank'>
+				<img
+					align='left'
+					alt='git'
+					height='40px'
+					src='https://user-images.githubusercontent.com/82386196/182673620-a4b6216e-ecc9-47fe-892b-c0d1883f69cd.svg'
+				/>
+			</a>
+			<a href='https://tailwindcss.com/' target='_blank'>
+				<img
+					align='left'
+					alt='tailwind'
+					height='40px'
+					src='https://user-images.githubusercontent.com/82386196/190179133-34d325a9-92a4-437a-89f3-25eb01039865.png'
+				/>
+			</a>
+			<a href='https://mui.com/' target='_blank'>
+				<img
+					align='left'
+					alt=''
+					height='35px'
+					src='https://user-images.githubusercontent.com/82386196/190182938-3680085a-8888-46a0-9296-115bc5fb22e9.png'
+				/>
+			</a>
+<!-- <a href="https://mui.com/" target="_blank"><img align="left" alt="Material-ui" height='40px' src="https://user-images.githubusercontent.com/82386196/182674563-54449596-187a-4834-b690-ac74f3a293a6.png" /></a> -->
 
