@@ -15,10 +15,10 @@ I write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
 
 ## Some of My Recent Posts on DEV community:
 
-- [Resources for learning to code](https://dev.to/meetbhalodiya/resources-for-learning-to-code-5257)
-- [How is it to become a self taught developer](https://dev.to/meetbhalodiya/how-is-it-to-become-a-self-taught-developer-of6).
+- [Understanding Time zone](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
+- [How is it to become a self taught developer](https://dev.to/meetbhalodiya/how-is-it-to-become-a-self-taught-developer-of6)
 - [Intro To LinkedIn](https://dev.to/meetbhalodiya/tell-who-you-are-what-you-do-2e7b)
-- [Pros and Cons of being a self taught developer](https://dev.to/meetbhalodiya/is-it-good-to-be-a-self-taught-developer--5dpe).
+- [Pros and Cons of being a self taught developer](https://dev.to/meetbhalodiya/is-it-good-to-be-a-self-taught-developer--5dpe)
 
 
 ## Languages & Tools I Use:
