@@ -96,5 +96,9 @@ I write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
 					src='https://user-images.githubusercontent.com/82386196/190182938-3680085a-8888-46a0-9296-115bc5fb22e9.png'
 				/>
 			</a>
-<!-- <a href="https://mui.com/" target="_blank"><img align="left" alt="Material-ui" height='40px' src="https://user-images.githubusercontent.com/82386196/182674563-54449596-187a-4834-b690-ac74f3a293a6.png" /></a> -->
+			<br/>
+## Developer profiles
+<a href="https://stackoverflow.com/users/15759228/meet-bhalodiya">
+	<img src="https://stackoverflow.com/users/flair/15759228.png?theme=dark" width="208" height="58" alt="profile for Meet Bhalodiya at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Meet Bhalodiya at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 
