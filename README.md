@@ -97,8 +97,8 @@ I write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
 				/>
 			</a>
 			<br/>
-## Developer profiles
+<!-- ## Developer profiles
 <a href="https://stackoverflow.com/users/15759228/meet-bhalodiya">
 	<img src="https://stackoverflow.com/users/flair/15759228.png?theme=dark" width="208" height="58" alt="profile for Meet Bhalodiya at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Meet Bhalodiya at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+</a> -->
 
