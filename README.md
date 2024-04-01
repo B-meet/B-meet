@@ -2,18 +2,18 @@
 
 ### About Me:
 
-I am Meet a frontend developer from India. Currently working with [reactjs](https://reactjs.org/). I love styling web and learning new things excites me a lot.
+I am Meet a frontend developer from India.
+I am currently working with [reactjs](https://react.dev/). I love styling the web and learning new things which helps me do it excites me a lot.
 
-- ☕ A coffee lover surrounded by Teaophiles.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning GSAP animations.
 - 🤔 I’m looking for help in Learning Data Structures.
-- 💬 Ask me about My Past Experiences.
+- 💬 Ask me about My Journey so far...I have a lot to say on that 😁
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Strawberry is not a berry, Watermelon is a berry.
 
-I write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
+I used to write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
 
-## Some of My Recent Posts on DEV community:
+## Some of My Recent Posts on the DEV community:
 
 - [Understanding Time zone](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
 - [How is it to become a self taught developer](https://dev.to/meetbhalodiya/how-is-it-to-become-a-self-taught-developer-of6)
@@ -97,8 +97,9 @@ I write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
 				/>
 			</a>
 			<br/>
-<!-- ## Developer profiles
+			<br/>
+ ## Developer profiles
 <a href="https://stackoverflow.com/users/15759228/meet-bhalodiya">
 	<img src="https://stackoverflow.com/users/flair/15759228.png?theme=dark" width="208" height="58" alt="profile for Meet Bhalodiya at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Meet Bhalodiya at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a> -->
+</a>
 
