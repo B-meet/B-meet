@@ -2,24 +2,23 @@
 
 ### About Me:
 
-I am Meet a frontend developer from India.
-I am currently working with [reactjs](https://react.dev/). I love styling the web and learning new things which helps me do it excites me a lot.
+I am Meet, a front-end developer from India.
+I am working with [reactjs](https://react.dev/) and stuff around that. I love to make the web a little bit more beautiful than it was yesterday.
 
 - 🌱 I’m currently learning GSAP animations.
-- 🤔 I’m looking for help in Learning Data Structures.
+- 🤔 I’m looking for a good collaboration for work on React JS or around.
 - 💬 Ask me about My Journey so far...I have a lot to say on that 😁
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Strawberry is not a berry, Watermelon is a berry.
 
-I used to write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
+I write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
 
 ## Some of My Recent Posts on the DEV community:
 
+- [Don't be limited to a dev](https://dev.to/meetbhalodiya/how-not-to-stay-an-only-developer-person-4h8l)
 - [Understanding Time zone](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
-- [How is it to become a self taught developer](https://dev.to/meetbhalodiya/how-is-it-to-become-a-self-taught-developer-of6)
-- [Do be limited to a dev](https://dev.to/meetbhalodiya/how-not-to-stay-an-only-developer-person-4h8l)
-- [Pros and Cons of being a self taught developer](https://dev.to/meetbhalodiya/is-it-good-to-be-a-self-taught-developer--5dpe)
-
+- [How is it to become a self-taught developer](https://dev.to/meetbhalodiya/how-is-it-to-become-a-self-taught-developer-of6)
+- [Pros and Cons of being a self-taught developer](https://dev.to/meetbhalodiya/is-it-good-to-be-a-self-taught-developer--5dpe)
 
 ## Languages & Tools I Use:
 
