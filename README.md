@@ -17,7 +17,7 @@ I used to write Blog posts on [DEV Community](https://dev.to/meetbhalodiya)
 
 - [Understanding Time zone](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
 - [How is it to become a self taught developer](https://dev.to/meetbhalodiya/how-is-it-to-become-a-self-taught-developer-of6)
-- [Intro To LinkedIn](https://dev.to/meetbhalodiya/tell-who-you-are-what-you-do-2e7b)
+- [Do be limited to a dev](https://dev.to/meetbhalodiya/how-not-to-stay-an-only-developer-person-4h8l)
 - [Pros and Cons of being a self taught developer](https://dev.to/meetbhalodiya/is-it-good-to-be-a-self-taught-developer--5dpe)
 
 
